@@ -77,11 +77,6 @@ const config = {
             label: 'Wiki',
           },
           {
-            href: 'https://oreonproject.org/docs/',
-            label: 'Official Docs',
-            position: 'left',
-          },
-          {
             href: 'https://oreonproject.org/',
             label: 'Oreon Website',
             position: 'right',
