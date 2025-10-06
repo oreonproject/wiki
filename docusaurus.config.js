@@ -99,7 +99,7 @@ const config = {
                 to: '/docs/intro',
               },
               {
-                label: 'Official Docs',
+                label: 'Legacy Docs',
                 href: 'https://oreonproject.org/docs/',
               },
             ],
