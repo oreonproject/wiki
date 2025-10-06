@@ -108,7 +108,7 @@ static/
 
 ## Links
 
-- [Official Oreon Documentation](https://oreonproject.org/docs/)
+- [Legacy Oreon Documentation](https://oreonproject.org/docs/)
 - [Oreon Project Website](https://oreonproject.org/)
 - [GitHub Repository](https://github.com/oreonproject/wiki)
 - [Docusaurus Documentation](https://docusaurus.io/docs)
