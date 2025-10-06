@@ -12,13 +12,12 @@ Welcome to the **Oreon Community Wiki** - a collaborative documentation project 
 
 ## Official Documentation
 
-For the most up-to-date and complete information about the Oreon Project, please visit the [**Official Oreon Documentation**](https://oreonproject.org/docs/). The official docs contain:
+Oreon Wiki is now considered the official documentation hub for Oreon. As time goes on, the following guides will be written:
 
 - Complete installation guides
 - API reference
 - Getting started tutorials
 - Architecture documentation
-- Release notes and changelogs
 
 ## How to Contribute
 
@@ -55,10 +54,8 @@ As this wiki grows, you can expect to find:
 ## Quick Links
 
 - [Official Oreon Website](https://oreonproject.org/)
-- [Official Documentation](https://oreonproject.org/docs/)
 - [Oreon YouTube Channel](https://youtube.com/@oreonproject)
 - [Main GitHub Organization](https://github.com/oreonproject/)
-- [Oreon Git Server](https://git.oreonproject.org/)
 
 ## Community
 
