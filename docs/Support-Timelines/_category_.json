@@ -1,0 +1,8 @@
+{
+  "label": "Support Timelines",
+  "position": 3,
+  "link": {
+    "type": "generated-index",
+    "description": "Support lifecycle information for Oreon products and versions."
+  }
+}
