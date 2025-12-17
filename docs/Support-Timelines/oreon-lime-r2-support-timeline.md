@@ -29,4 +29,4 @@ Understand the support lifecycle of Oreon Lime (R2) and plan your deployments ac
 | Release 2 September Update (R2) | Sep 30, 2024 | Jan 1, 2025 |
 | Build 2501 | Jan 1, 2025 | Mar 9, 2025 |
 | Build 2503 | Mar 9, 2025 | Apr 19, 2025 |
-| Build 2504 | Apr 19, 2025 | N/A |
+| Build 2504 | Apr 19, 2025 | Supported |
