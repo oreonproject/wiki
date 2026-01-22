@@ -1,0 +1,8 @@
+{
+  "label": "Council",
+  "position": 4,
+  "link": {
+    "type": "generated-index",
+    "description": "Information about the Oreon Council and its members."
+  }
+}
