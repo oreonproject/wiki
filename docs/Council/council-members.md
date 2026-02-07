@@ -12,11 +12,7 @@ The Oreon Council is responsible for managing the community and FOSS development
 ### Gabriel Paesano - Oreon Project Leader
 - **Role**: Current Oreon Project Leader
 - **Tenure**: January 2026 - Present
-
-### Ali Moumen - Oreon Community Leader
-- **Role**: Current Oreon Community Leader
-- **Tenure**: June 2024 - Present
-
+- 
 ## Former Council Members
 
 ### Brandon Lester - Former Oreon Project Leader
@@ -26,3 +22,7 @@ The Oreon Council is responsible for managing the community and FOSS development
   - Oreon Lime (R1/R1.1)
   - Oreon Lime (R2)
   - Oreon 10
+
+ ### Ali Moumen - Former Oreon Community Leader
+- **Role**: Former Oreon Community Leader
+- **Tenure**: June 2024 - February 2026
