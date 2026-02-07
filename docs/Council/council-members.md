@@ -12,7 +12,7 @@ The Oreon Council is responsible for managing the community and FOSS development
 ### Gabriel Paesano - Oreon Project Leader
 - **Role**: Current Oreon Project Leader
 - **Tenure**: January 2026 - Present
-- 
+
 ## Former Council Members
 
 ### Brandon Lester - Former Oreon Project Leader
