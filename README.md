@@ -1,6 +1,6 @@
 # Oreon Wiki
 
-This is the community-driven wiki for the Oreon Project, built using [Docusaurus](https://docusaurus.io/).
+This is the community-driven wiki for the Oreon HQ, built using [Docusaurus](https://docusaurus.io/).
 
 ## Writing Documentation
 
@@ -108,7 +108,6 @@ static/
 
 ## Links
 
-- [Legacy Oreon Documentation](https://oreonproject.org/docs/)
-- [Oreon Project Website](https://oreonproject.org/)
-- [GitHub Repository](https://github.com/oreonproject/wiki)
+- [Oreon HQ Website](https://oreonhq.com/)
+- [GitHub Repository](https://github.com/oreonhq/wiki)
 - [Docusaurus Documentation](https://docusaurus.io/docs)

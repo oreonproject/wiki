@@ -28,7 +28,7 @@ This wiki thrives on community contributions! Here's how you can help:
 - This will take you directly to GitHub where you can make changes and submit a pull request
 
 ### Major Contributions
-1. Visit our [GitHub repository](https://github.com/oreonproject/wiki)
+1. Visit our [GitHub repository](https://github.com/oreonhq/wiki)
 2. Fork the repository
 3. Create a new branch for your changes
 4. Add or edit documentation in the `docs/` folder
@@ -53,18 +53,18 @@ As this wiki grows, you can expect to find:
 
 ## Quick Links
 
-- [Official Oreon Website](https://oreonproject.org/)
+- [Official Oreon Website](https://oreonhq.com/)
 - [Oreon YouTube Channel](https://youtube.com/@oreonproject)
-- [Main GitHub Organization](https://github.com/oreonproject/)
+- [Main GitHub Organization](https://github.com/oreonhq/)
 
 ## Community
 
 Join the Oreon community and stay updated:
 
 - Subscribe to us on [YouTube](https://youtube.com/@oreonproject) for tutorials and updates
-- Check out the [main Oreon website](https://oreonproject.org/)
-- Contribute to the project on [GitHub](https://github.com/oreonproject/)
-- Help users and get the latest news on [Oreon Forums](https://forums.oreonproject.org/)
+- Check out the [main Oreon website](https://oreonhq.com/)
+- Contribute to the project on [GitHub](https://github.com/oreonhq/)
+- Help users and get the latest news on [Oreon Community](https://community.oreonhq.com/)
 
 ---
 

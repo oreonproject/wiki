@@ -11,7 +11,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Oreon Wiki',
-  tagline: 'Community-driven documentation and guides for the Oreon Project',
+  tagline: 'Community-driven documentation and guides for the Oreon HQ',
   favicon: 'img/favicon.ico',
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
@@ -27,7 +27,7 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'oreonproject', // Usually your GitHub org/user name.
+  organizationName: 'oreonhq', // Usually your GitHub org/user name.
   projectName: 'wiki', // Usually your repo name.
 
   onBrokenLinks: 'throw',
@@ -48,7 +48,7 @@ const config = {
       ({
         docs: {
           sidebarPath: './sidebars.js',
-          editUrl: 'https://github.com/oreonproject/wiki/tree/main/',
+          editUrl: 'https://github.com/oreonhq/wiki/tree/main/',
         },
         blog: false, // Disable blog
         theme: {
@@ -65,7 +65,7 @@ const config = {
       image: 'img/oreonwiki.png',
       navbar: {
         logo: {
-          alt: 'Oreon Project Logo',
+          alt: 'Oreon HQ Logo',
           src: 'img/oreonwiki.png',
           srcDark: 'img/oreonwikidark.png',
         },
@@ -77,12 +77,12 @@ const config = {
             label: 'Wiki',
           },
           {
-            href: 'https://oreonproject.org/',
+            href: 'https://oreonhq.com/',
             label: 'Oreon Website',
             position: 'right',
           },
           {
-            href: 'https://github.com/oreonproject/wiki',
+            href: 'https://github.com/oreonhq/wiki',
             label: 'Contribute',
             position: 'right',
           },
@@ -98,10 +98,6 @@ const config = {
                 label: 'Wiki Home',
                 to: '/docs/intro',
               },
-              {
-                label: 'Legacy Docs',
-                href: 'https://oreonproject.org/docs/',
-              },
             ],
           },
           {
@@ -109,7 +105,7 @@ const config = {
             items: [
               {
                 label: 'Oreon Website',
-                href: 'https://oreonproject.org/',
+                href: 'https://oreonhq.com/',
               },
               {
                 label: 'YouTube',
@@ -117,7 +113,7 @@ const config = {
               },
               {
                 label: 'Contribute to Wiki',
-                href: 'https://github.com/oreonproject/wiki',
+                href: 'https://github.com/oreonhq/wiki',
               },
             ],
           },
@@ -126,16 +122,12 @@ const config = {
             items: [
               {
                 label: 'Main Repository',
-                href: 'https://github.com/oreonproject/',
-              },
-              {
-                label: 'Oreon Git',
-                href: 'https://git.oreonproject.org/',
+                href: 'https://github.com/oreonhq/',
               },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Oreon Project. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Oreon HQ. All rights reserved.`,
       },
       prism: {
         theme: prismThemes.github,
