@@ -11,7 +11,7 @@ Oreon team includes several positions. Temporary contributors will not show up h
   - None at this time
 
 - General Operations Coordinators
-  - Drew Smirnoff (Jun 2026-PRESENT) - @andrinoff on GitHub
+  - None at this time
   
 # Teams 
 
